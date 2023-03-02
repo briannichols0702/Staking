@@ -1,0 +1,17 @@
+{
+  "consensusAddress": "0xc6119816bB72c980d99861FeF89F6ceDe5D362A5",
+  "blockRewardAddress": "0x8AE455f5e77F2fF26F8aD69cf8464AA12aaAeAd8",
+  "web3": {
+    "fuseProvider": "https://mainnet-rpc.bescscan.io"
+  },
+  "api": {
+    "boot": "https://bot.bescscan.io/api/v1"
+  },
+  "reactGA": {
+    "trackingId": "G-LHHHX57LEJ",
+    "gaOptions": {
+      "testMode": true,
+      "debug": true
+    }
+  }
+}
